@@ -1,5 +1,5 @@
 FILENAME = "tasks.txt"
-a
+
 def load_tasks():
     try:
         with open(FILENAME, "r") as file:
